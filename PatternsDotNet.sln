@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsDotNet.Specifications", "PatternsDotNet.Specifications\PatternsDotNet.Specifications.csproj", "{FCDA89A6-F104-44EE-8E18-E91795FF8EE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsDotNet.Specifications", "src\PatternsDotNet.Specifications\PatternsDotNet.Specifications.csproj", "{FCDA89A6-F104-44EE-8E18-E91795FF8EE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
