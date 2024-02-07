@@ -1,6 +1,6 @@
-using PatternsDotNet.Specifications.Abstractions;
+using PatternsDotNet.Specifications.Specs.Abstractions;
 
-namespace PatternsDotNet.Specifications;
+namespace PatternsDotNet.Specifications.Specs;
 
 public record NotSpecification<T>(ISpecification<T> Other) : CompositeSpecification<T>
 {

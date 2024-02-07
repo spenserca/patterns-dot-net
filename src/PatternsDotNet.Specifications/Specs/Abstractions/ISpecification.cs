@@ -1,4 +1,4 @@
-﻿namespace PatternsDotNet.Specifications.Abstractions;
+﻿namespace PatternsDotNet.Specifications.Specs.Abstractions;
 
 public interface ISpecification<T>
 {
